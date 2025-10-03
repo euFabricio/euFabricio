@@ -4,7 +4,7 @@
 
 🌐 Visite o repositório de [Hello, World!](https://github.com/euFabricio/Hello-world)
 
-## 💻 Principais tecnologias:
+### 💻 Principais tecnologias:
 <h3 align="center">
 <div class="icon-container">
         <div class="icon-box">
