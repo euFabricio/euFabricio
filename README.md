@@ -2,7 +2,7 @@
 ## 🧊 Desenvolvimento de Software.
 🔍 Desvendando o mundo da programação.
 
-🌐 Visite os repositórios [Hello, World!](https://github.com/euFabricio/Hello-world)  💻 E repositório [Intunewin_Create_Extract-main](https://github.com/euFabricio/Intunewin_Create_Extract-main)
+🌐 Visite os repositórios [Hello, World!](https://github.com/euFabricio/Hello-world)  💻 E  [Intunewin_Create_Extract-main](https://github.com/euFabricio/Intunewin_Create_Extract-main)  e muito mais...
 
 ### 💻 Principais tecnologias:
 <h3 align="center">
