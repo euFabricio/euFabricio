@@ -6,7 +6,7 @@
 
 ## 💻 Principais tecnologias:
 <h3 align="center">
-<div class="icon-container" align="center">
+<div class="icon-container" >
         <div class="icon-box">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="HTML" align="center" width="40" alt="VSCode">
             <div class="icon-label">VSCode</div> &nbsp;&nbsp;
