@@ -2,9 +2,9 @@
 ## 🧊 Desenvolvimento de Software.
 🔍 Desvendando o mundo da programação.
 
-🌐 Visite o repositório de [Hello, World!](https://github.com/euFabricio/Hello-world)
+🌐 Visite os repositórios [Hello, World!](https://github.com/euFabricio/Hello-world)  💻 E repositório [Intunewin_Create_Extract-main](https://github.com/euFabricio/Intunewin_Create_Extract-main)
 
-## 💻 Principais tecnologias:
+### 💻 Principais tecnologias:
 <h3 align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="HTML" align="center" width="40" alt="VSCode"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="HTML" align="center" width="40" alt="Python"></a> &nbsp;&nbsp;
@@ -14,6 +14,7 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" align="center" width="40"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="HTML" align="center" width="40" alt="GitHub"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" align="center" width="40"></a> &nbsp;&nbsp;
+  
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="HTML" align="center" width="40" alt="Azure"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" align="center" width="40"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="HTML" align="center" width="40" alt="C#"></a> &nbsp;&nbsp;
@@ -23,8 +24,8 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="HTML" align="center" width="40" alt="Linux"></a> &nbsp;&nbsp;
             
 </h3>
+   <a href="#"><img src="https://raw.githubusercontent.com/lucas-bardeli/lucas-bardeli/output/github-contribution-grid-snake.svg">
 
-##
 
 <h3>
   👋 Conecte-se comigo: &nbsp;
