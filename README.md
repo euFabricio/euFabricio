@@ -1,47 +1,12 @@
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Galeria de Ícones com Hover</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #fff;
-            text-align: center;
-            padding: 40px;
-        }
-        .icon-container {
-            display: flex;
-            overflow-x: auto;
-            gap: 30px;
-            padding: 20px;
-        }
-        .icon-box {
-            flex: 0 0 auto;
-            width: 120px;
-            text-align: center;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-        .icon-box:hover {
-            transform: scale(1.2);
-            box-shadow: 0 8px 16px rgba(0,0,0,0.3);
-            z-index: 1;
-        }
-        .icon-box img {
-            width: 64px;
-            height: 64px;
-        }
-        .icon-label {
-            margin-top: 10px;
-            font-size: 14px;
-        }
-    </style>
-</head>
-<body>
-    <h1>🧊 Desenvolvimento de Software</h1>
-    <p>🔍 Desvendando o mundo da programação.</p>
-    <p>🌐 Visite o repositório de <a href="https://github.com/euFabricio/Hello-world">Hello, World!</a></p>
+## 🧊 Desenvolvimento de Software.
+🔍 Desvendando o mundo da programação.
+
+🌐 Visite o repositório de [Hello, World!](https://github.com/euFabricio/Hello-world)
+
+## 💻 Principais tecnologias:
+
+<h3 align="center">
 
     <h2>💻 Principais tecnologias:</h2>
     <div class="icon-container">
@@ -103,11 +68,13 @@
         </div>
     </div>
 
-    <h3>
-      👋 Conecte-se comigo:&nbsp;
-      <a href="https://www.linkedin.com/in/fabriciovianaribeiro/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="center" width="40">
-      </a>
-    </h3>
-</body>
-</html>
+</h3>
+
+##
+
+<h3>
+  👋 Conecte-se comigo: &nbsp;
+  <a href="https://www.linkedin.com/in/fabriciovianaribeiro/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="center" width="40">
+  </a>
+</h3>
