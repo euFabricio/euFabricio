@@ -6,11 +6,53 @@
 
 ## 💻 Principais tecnologias:
 <h3 align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" align="center" width="40"></a> &nbsp;&nbsp;
+<div class="icon-container">
+        <div class="icon-box">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode">
+            <div class="icon-label">VSCode</div>
+        </div>
+        <div class="icon-box">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell">
+            <div class="icon-label">PowerShell</div>
+        </div>
+        <div class="icon-box">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="Windows">
+            <div class="icon-label">Windows</div>
+        </div>
+        <div class="icon-box">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub">
+            <div class="icon-label">GitHub</div>
+        </div>
+        <div class="icon-box">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
+            <div class="icon-label">Python</div>
+        </div>
+        <div class="icon-box">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker">
+            <div class="icon-label">Docker</div>
+        </div>
+        <div class="icon-box">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux">
+            <div class="icon-label">Linux</div>
+        </div>
+        <div class="icon-box">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure">
+            <div class="icon-label">Azure</div>
+        </div>
+        <div class="icon-box">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#">
+            <div class="icon-label">C#</div>
+        </div>
+        <div class="icon-box">
+            <img src="https://img.icons8.com/?size=154&id=D5nuxA0qwo6w&format=png" alt="Intune">
+            <div class="icon-label">Intune</div>
+        </div>
+        <div class="icon-box">
+            <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL">
+            <div class="icon-label">SQL</div>
+        </div>
+    </div>
+
 </h3>
 
 ##
