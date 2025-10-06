@@ -35,10 +35,8 @@ Explore mais em meu GitHub!
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="HTML" align="center" width="40" alt="Linux"></a> &nbsp;&nbsp;
             
 </h3>
-<h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucas-bardeli/lucas-bardeli/output/github-contribution-grid-snake.svg" alt="Snake animation showing GitHub contributionslinkedin.comiana.ribeiro@gmail.com
-</h3>
+  <a href="#"><img src="https://raw.githubusercontent.com/lucas-bardeli/lucas-bardeli/output/github-contribution-grid-snake.svg"></a>
     
 ---
 
