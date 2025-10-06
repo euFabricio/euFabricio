@@ -1,5 +1,7 @@
 # 🧊 Fabricio Ribeiro - Analista de Sistemas
 
+<a href="https://www.instagram.com/eu.fabricio/"><img src="https://skillicons.dev/icons?i=instagram" width="30"> </a> <a href="https://www.linkedin.com/in/fabriciovianaribeiro/"> <img src="https://skillicons.dev/icons?i=linkedin" width="30"> </a>
+
 🔍 Desvendando o mundo da programação com automações, scripts inteligentes e soluções em nuvem.
 
 ---
@@ -44,5 +46,6 @@ Explore mais em meu GitHub!
 > 💡 *"Automatizar é libertar tempo para pensar. Programar é transformar ideias em soluções."*
 
 > 👋 Conecte-se comigo: &nbsp;
+  <a href="https://www.linkedin.com/in/fabriciovianaribeiro/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="center" width="40"></a>
   <a href="https://www.linkedin.com/in/fabriciovianaribeiro/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="center" width="40"></a>
 
