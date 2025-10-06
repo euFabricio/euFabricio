@@ -46,5 +46,5 @@ Explore mais em meu GitHub!
 > 👋 Conecte-se comigo: &nbsp;
   <a href="https://www.linkedin.com/in/fabriciovianaribeiro/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="center" width="40"></a>
 
-
+![](https://komarev.com/ghpvc/?username=your-github-eufabricio&color=blue&style=for-the-badge&label=PROFILE+VIEWS&base=2000&abbreviated=true)
 
