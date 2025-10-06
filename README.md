@@ -1,6 +1,4 @@
-# 🧊 Fabricio Ribeiro - Analista de Sistemas
-
-<a href="https://www.instagram.com/eu.fabricio/"><img src="https://skillicons.dev/icons?i=instagram" width="30"> </a> <a href="https://www.linkedin.com/in/fabriciovianaribeiro/"> <img src="https://skillicons.dev/icons?i=linkedin" width="30"> </a>
+# 🧊 Fabricio Ribeiro - Analista de Sistemas   <a href="https://www.instagram.com/eu.fabricio/"><img src="https://skillicons.dev/icons?i=instagram" width="30"> </a>   <a href="https://www.linkedin.com/in/fabriciovianaribeiro/"> <img src="https://skillicons.dev/icons?i=linkedin" width="30"> </a>
 
 🔍 Desvendando o mundo da programação com automações, scripts inteligentes e soluções em nuvem.
 
