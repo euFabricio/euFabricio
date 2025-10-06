@@ -45,3 +45,4 @@ Explore mais em meu GitHub!
 
 > 👋 Conecte-se comigo: &nbsp;
   <a href="https://www.linkedin.com/in/fabriciovianaribeiro/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="center" width="40"></a>
+
