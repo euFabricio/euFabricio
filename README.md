@@ -1,10 +1,21 @@
+# 🧊 Fabricio Ribeiro - Analista de Sistemas
 
-## 🧊 Analista de Sistemas...
-🔍 Desvendando o mundo da programação.
+🔍 Desvendando o mundo da programação com automações, scripts inteligentes e soluções em nuvem.
 
-🌐 Visite os repositórios [Hello, World!](https://github.com/euFabricio/Hello-world) ,  [Intunewin_Create_Extract-main](https://github.com/euFabricio/Intunewin_Create_Extract-main)  e muito mais...
+---
 
-### 💻 Principais tecnologias:
+## 🌐 Repositórios em destaque
+
+- [Intunewin_Create_Extract-main](https://github.com/euFabricio/Intunewin_Create_Extract-main): Ferramenta Win32app do Intune – Criar e extrair o Intunewin `.intunewin`, para uso com Microsoft Intune.
+- [Intune](https://github.com/euFabricio/Intune): Script automatizado para instalação do IntuneWinAppUtil e outras ferramentas essenciais.
+- [Devicon](https://github.com/euFabricio/Devicon): O Devicon tem como objetivo reunir todos os logotipos que representam linguagens e ferramentas de desenvolvimento.
+
+Explore mais em meu GitHub!
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
 <h3 align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="HTML" align="center" width="40" alt="VSCode"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="HTML" align="center" width="40" alt="Python"></a> &nbsp;&nbsp;
@@ -24,21 +35,13 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="HTML" align="center" width="40" alt="Linux"></a> &nbsp;&nbsp;
             
 </h3>
-   <a href="#"><img src="https://raw.githubusercontent.com/lucas-bardeli/lucas-bardeli/output/github-contribution-grid-snake.svg">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucas-bardeli/lucas-bardeli/output/github-contribution-grid-snake.svg" alt="Snake animation showing GitHub contributionslinkedin.comiana.ribeiro@gmail.com
 
-<h3>
-  👋 Conecte-se comigo: &nbsp;
-  <a href="https://www.linkedin.com/in/fabriciovianaribeiro/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="center" width="40">
-  </a>
-</h3>
+---
 
-<!-- ##
-<div align="center">
-  <picture aling="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucas-bardeli/lucas-bardeli/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucas-bardeli/lucas-bardeli/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucas-bardeli/lucas-bardeli/output/github-contribution-grid-snake.svg">
-  </picture>
-</div> -->
+> 💡 *"Automatizar é libertar tempo para pensar. Programar é transformar ideias em soluções."*
+
+> 👋 Conecte-se comigo: &nbsp;
+  <a href="https://www.linkedin.com/in/fabriciovianaribeiro/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="center" width="40"></a>
