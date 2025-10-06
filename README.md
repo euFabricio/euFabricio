@@ -42,6 +42,7 @@ Explore mais em meu GitHub!
     
 ---
 
+
 > 💡 *"Automatizar é libertar tempo para pensar. Programar é transformar ideias em soluções."*
 
 > 👋 Conecte-se comigo: &nbsp;
