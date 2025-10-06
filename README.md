@@ -45,9 +45,6 @@ Explore mais em meu GitHub!
 
 > 👋 Conecte-se comigo: &nbsp;
   <a href="https://www.linkedin.com/in/fabriciovianaribeiro/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="center" width="40"></a>
-  <a href="https://www.linkedin.com/in/fabriciovianaribeiro/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="center" width="40"></a>
 
-
-<script type="text/javascript" src="https://pub3.bravenet.com/counter/code.php?id=407458&usernum=216111474&cpv=3"></script>
 
 
